@@ -16,8 +16,16 @@ My first Data Engineering practice project using Python.
 
 ## How to Run
 ```bash
+
 python day01_sales_cleaner.py
 ```
 
 ## Expected Total Revenue
 ₹47,200
+=======
+python Sales_cleaner.py
+```
+
+## Expected Total Revenue
+₹47,200
+
